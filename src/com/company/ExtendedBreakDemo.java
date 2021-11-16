@@ -18,5 +18,6 @@ public class ExtendedBreakDemo {
             }
             System.out.println("завершен Блок1");
         }
+        System.out.println("конец цикла for");
     }
 }
